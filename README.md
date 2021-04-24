@@ -5,7 +5,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucciolemos)](https://twitter.com/lucciolemos)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://studio.youtube.com/channel/UCrNM1nr2nw0lSqMD10m6rLw)](https://studio.youtube.com/channel/UCrNM1nr2nw0lSqMD10m6rLw)
 
-### Hey!
 My name is Lúcio Lemos. I am a front end programmer; a lifetime learning. I use Unix and Windows systems regardless and I am familiar with the following IDEs: Apache Netbeans, Eclipse, Bootstrap Studio,
 PHP Stormy, RStudio, etc ... I also use Sublime Text, VSCode, and Notepad ++ among others with ease.
 I have knowledge of the following programming languages: R, C, Python, PHP, and Java.
