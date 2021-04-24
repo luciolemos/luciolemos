@@ -11,4 +11,6 @@ I have knowledge of the following programming languages: R, C, Python, PHP, and 
 I use Github as a versioning tool...
 
 - [Website](https://www.luciolemos.com) 💻 - Working on it.
-- [HTML5](#), [CSS3](#), [MySQL](#), [Javascript](#), [R](#), [C](#), [Python](#), [PHP](#)
+- [HTML5](#), [CSS3](#), [Bootstrap](#), [MySQL](#), [Javascript](#), [R](#), [C](#), [Python](#), [PHP](#)
+- [Apache NetBeans](#), [Eclipse](#), [PhpStormy](#), [Bootstrap Studio](#), [RStudio](#)
+- [VSCode](#), [Sublimme Text](#), [Notepad ++](#), ...
