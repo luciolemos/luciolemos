@@ -9,7 +9,7 @@
 My name is Lúcio Lemos. 
 I am a front end programmer and a lifetime learning. 
 I use [**Linux Mint**](https://linuxmint.com/), [Windows](https://www.microsoft.com/pt-br/windows/), systems regardless and I am familiar with the following IDEs: [Apache NetBeans](https://netbeans.apache.org/), Eclipse, [Bootstrap Studio](https://bootstrapstudio.io/), [PhpStorm](https://www.jetbrains.com/pt-br/phpstorm/), [RStudio](https://www.r-project.org/), etc ... 
-I also use [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5), [Sublime Text](https://www.sublimetext.com/), [**VSCode**](https://code.visualstudio.com/), and [Notepad ++](https://notepad-plus-plus.org/), among others with ease.
+I also use [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5), [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS), [Bootstrap](https://getbootstrap.com/), [Sublime Text](https://www.sublimetext.com/), [**VSCode**](https://code.visualstudio.com/), and [Notepad ++](https://notepad-plus-plus.org/), among others with ease.
 I have knowledge of the following programming languages: R, C, Python, PHP, and Java.
 I use Github as a versioning tool...
 
