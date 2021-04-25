@@ -27,7 +27,13 @@ I currently travel the knowledge trails of [Docker](https://docs.docker.com/) an
 
 [![](https://img.shields.io/badge/-Joomla_CMS-red)](#) 
 [![](https://img.shields.io/badge/-Wordpress-blue)](#) 
-## My tips:
-### Comand Line Interface (CLI) 💻
+## My tips: 
+### Comand Line Interface (CLI) 💻 
+![](/home/luciolemos/Imagens/pc.svg)
+
+
+![Codando](https://4.bp.blogspot.com/-9acmZwkgco8/W6Haj_DTtDI/AAAAAAAFzk0/T0eJ3KV6OZ4rzo6v_a3RdDvTCHSy6phQgCLcBGAs/s1600/19335383_f7332398b2e5c01942cdaeacd7b55594_800.gif)
+
+
 #### 1. Carregando o diretório corrente (docker_projects) no VSCode:
     luciolemos@dev:~/docker_projects$ code .
