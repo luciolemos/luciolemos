@@ -20,6 +20,6 @@ I use Github as a versioning tool...
 - [Network and System Security](#)
 - [Data Governance](#)
 
-[![](https://img.shields.io/badge/HTML-5-red)](#) [![Github Badge](https://img.shields.io/badge/CSS-3-red)](#) 
+[![](https://img.shields.io/badge/HTML-5-blue)](#) [![](https://img.shields.io/badge/CSS-3-red)](#) [![](https://img.shields.io/badge/Bootstrap-5-reoranged)](#)
 [![](https://img.shields.io/badge/-HTML-blue)](#) [![](https://img.shields.io/badge/-CSS-red)](#) [![](https://img.shields.io/badge/-Bootstrap-green)](#) [![](https://img.shields.io/badge/-Javascript-yellow)](#)
 
