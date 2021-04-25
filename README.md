@@ -30,8 +30,8 @@ I currently travel the knowledge trails of [Docker](https://docs.docker.com/) an
 [![](https://img.shields.io/badge/-Wordpress-blue)](#) 
 ## My tips 📌: 
 ### Comand Line Interface (CLI) no terminal 💻 do GNOME.
-#### 1. Carregando o diretório corrente (docker_projects) no VSCode 📙:
+#### 1. Carregando o diretório 📁 corrente (docker_projects) no VSCode 📙:
     luciolemos@dev:~/docker_projects$ code .
 
-#### 2. Listando arquivos e diretórios 📗:
+#### 2. Listando arquivos 📄 e diretórios 📁 dentro de "docker_projects":
     luciolemos@dev:~/docker_projects$ ls -l
