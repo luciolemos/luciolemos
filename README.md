@@ -1,4 +1,4 @@
-# Hey!
+# 👤Hey!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luciolemos)](https://github.com/luciolemos)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucio-lemos-a550441a1/)](https://www.linkedin.com/in/lucio-lemos-a550441a1/)
@@ -27,9 +27,9 @@ I currently travel the knowledge trails of [Docker](https://docs.docker.com/) an
 
 [![](https://img.shields.io/badge/-Joomla_CMS-red)](#) 
 [![](https://img.shields.io/badge/-Wordpress-blue)](#) 
-## 📌 My tips: 
+## My tips 📌: 
 ### 💻 Comand Line Interface (CLI) 
 ### 🔧 Instalação 
-
-#### 1. Carregando o diretório corrente (docker_projects) no VSCode:
+👋📙
+#### 1. Carregando o diretório corrente (docker_projects) no VSCode 📙:
     luciolemos@dev:~/docker_projects$ code .
