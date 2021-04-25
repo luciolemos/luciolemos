@@ -30,4 +30,3 @@ I currently travel the knowledge trails of [Docker](https://docs.docker.com/) an
 ## My tips:
 ### 1. Carregando o diretório corrente (luciolemos) no VSCode:
     luciolemos@dev:~/luciolemos$ code .
-<span style="font-family:&quot;SFMono-Regular&quot;, Consolas, &quot;Liberation Mono&quot;, Menlo, Courier, monospace;line-height:normal;background:rgba(135,131,120,0.15);color:#EB5757;border-radius:3px;font-size:85%;padding:13px 13px 13px 13px" data-token-index="1" spellcheck="false">luciolemos@dev:~$ clear</span>
