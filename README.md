@@ -15,8 +15,7 @@ I currently travel the knowledge trails of Docker and React.
 
 - [Website](https://www.luciolemos.com) 💻 - Working on it.
 - [MySQL](#), [Javascript](#)
-- [Docker](#), [Vagrant](#)
-- [React](#), [...](#)
+- [Vagrant](#)
 - [Network and System Security](#)
 - [Data Governance](#)
 
