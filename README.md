@@ -11,7 +11,7 @@ I also know the code editors [Sublime Text](https://www.sublimetext.com/), [**VS
 Use in my projects: [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5), [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS), and [Bootstrap](https://getbootstrap.com/).
 I have knowledge of the following programming languages: R, C, Python, PHP, and Java.
 I use Github as a versioning tool.
-I currently travel the knowledge trails of Docker and React.
+I currently travel the knowledge trails of [Docker](https://docs.docker.com/) and [React](https://pt-br.reactjs.org/).
 
 - [Website](https://www.luciolemos.com) 💻 - Working on it.
 - [MySQL](#), [Javascript](#)
