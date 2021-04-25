@@ -26,7 +26,7 @@ I use Github as a versioning tool...
 [![](https://img.shields.io/badge/Linux_Mint-20.1-orange)](#)
 [![](https://img.shields.io/badge/Windows-10-blue)](#)
 
-[![](https://img.shields.io/badge/-Linux-red)](#) 
-[![](https://img.shields.io/badge/-Windows-blue)](#) 
-[![](https://img.shields.io/badge/-Apache_NetBeans-yellow)](https://netbeans.apache.org/)
+[![](https://img.shields.io/badge/-Joomla_CMS-red)](#) 
+[![](https://img.shields.io/badge/-Wordpress-blue)](#) 
+
 
