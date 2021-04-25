@@ -33,5 +33,5 @@ I currently travel the knowledge trails of [Docker](https://docs.docker.com/) an
 #### 1. Carregando o diretório corrente (docker_projects) no VSCode 📙:
     luciolemos@dev:~/docker_projects$ code .
 
-#### 2. Listando arquivos e diretórios:
+#### 2. Listando arquivos e diretórios 📕:
     luciolemos@dev:~/docker_projects$ ls -l
