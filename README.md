@@ -25,7 +25,6 @@ I use Github as a versioning tool...
 [![](https://img.shields.io/badge/HTML-5-blue)](#) 
 [![](https://img.shields.io/badge/CSS-3-red)](#) 
 [![](https://img.shields.io/badge/Bootstrap-5-orange)](#)
-
 [![](https://img.shields.io/badge/Linux_Mint-20.1-orange)](#)
 [![](https://img.shields.io/badge/Windows-10-blue)](#)
 
