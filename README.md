@@ -14,8 +14,9 @@ I use Github as a versioning tool.
 I currently travel the knowledge trails of [Docker](https://docs.docker.com/) and [React](https://pt-br.reactjs.org/).
 
 - [Website](https://www.luciolemos.com) 🌐 - Working on it.
-- [MySQL](#), [Javascript](#)
-- [Vagrant](#)
+- [MySQL](https://www.mysql.com/), 
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Vagrant](https://www.vagrantup.com/)
 - [Network and System Security](#)
 - [Data Governance](#)
 
