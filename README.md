@@ -28,5 +28,5 @@ I currently travel the knowledge trails of [Docker](https://docs.docker.com/) an
 [![](https://img.shields.io/badge/-Joomla_CMS-red)](#) 
 [![](https://img.shields.io/badge/-Wordpress-blue)](#) 
 
-
+### Carregando o diretório corrente no VSCode:
     luciolemos@dev:~/luciolemos$ code .
