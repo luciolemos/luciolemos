@@ -29,3 +29,4 @@ I currently travel the knowledge trails of Docker and React.
 [![](https://img.shields.io/badge/-Wordpress-blue)](#) 
 
 
+    luciolemos@dev:~/luciolemos$ code .
