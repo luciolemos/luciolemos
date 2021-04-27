@@ -1,24 +1,24 @@
 # My Tips
 ## Git [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luciolemos)](https://github.com/luciolemos)
-#### 1. Listando arquivos e diretórios existenes no diretório corrente (luciolemos):
+#### ✔️ Listando arquivos e diretórios existenes no diretório corrente (luciolemos):
     luciolemos@dev:~/luciolemos$ ls -l
     total 4
     -rw-rw-r-- 1 luciolemos luciolemos 3024 abr 26 21:38 README.md
 
-#### 2. Criando o arquivo _markdow_ git.md: ✔️
+#### ✔️ Criando o arquivo _markdow_ git.md: 
 
     luciolemos@dev:~/luciolemos$ touch git.md
 
-#### 3. Adicionando (stage changes) git.md:
+#### ✔️ Adicionando (stage changes) git.md:
     luciolemos@dev:~/luciolemos$ git add git.md
 
-#### 4. Realizando o commit:
+#### ✔️ Realizando o commit:
     luciolemos@dev:~/luciolemos$ git commit -m"Commit"
     [main 41712ff] Commit
     1 file changed, 0 insertions(+), 0 deletions(-)
     create mode 100644 git.md
 
-#### 5. Realizando o _push_ das alteraçãoe feitas no projeto:
+#### ✔️ Realizando o _push_ das alteraçãoe feitas no projeto:
     luciolemos@dev:~/luciolemos$ git push
     Username for 'https://github.com': luciolemos
     Password for 'https://luciolemos@github.com': 
@@ -32,5 +32,5 @@
     To https://github.com/luciolemos/luciolemos.git
     6133587..41712ff  main -> main
 
-#### 6. Carregando o diretório do projeto no VSCode:
+#### ✔️ Carregando o diretório do projeto no VSCode:
     luciolemos@dev:~/luciolemos$ code .
