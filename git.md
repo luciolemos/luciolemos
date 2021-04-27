@@ -37,3 +37,7 @@
 #### ✔️ Carregando o diretório do projeto no VSCode:
     luciolemos@dev:~/luciolemos$ code .
 
+#### ✔️ Empurrando o projeto a partir de liha de comando:
+    git remote add origin https://github.com/luciolemos/restful_project.git
+    git branch -M main 
+    git push -u origin main
