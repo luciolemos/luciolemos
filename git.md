@@ -9,7 +9,7 @@
 
     luciolemos@dev:~/luciolemos$ touch git.md
 
-#### 3. Adicionando git.md:
+#### 3. Adicionando (stage changes) git.md:
     luciolemos@dev:~/luciolemos$ git add git.md
 
 #### 4. Realizando o commit:
