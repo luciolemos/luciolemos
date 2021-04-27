@@ -1,8 +1,10 @@
-#### 1.Liistando arquivos e diretórios existenes no diretório corrente (lucioleos):
+# My Tips
+## Git
+#### 1. Listando arquivos e diretórios existenes no diretório corrente (lucioleos):
     luciolemos@dev:~/luciolemos$ ls -l
     total 4
     -rw-rw-r-- 1 luciolemos luciolemos 3024 abr 26 21:38 README.md
-#### 2.Criando o arquivo _markdow_ git.md:
+#### 2. Criando o arquivo _markdow_ git.md:
 
     luciolemos@dev:~/luciolemos$ touch git.md
 #### 3. Adicionando git.md:
