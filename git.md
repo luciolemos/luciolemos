@@ -8,35 +8,35 @@
 ### Git CLI 💻
 [Git](https://git-scm.com/) é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência.
 
-#### ✔️ Crie o repositório remoto _luciolemos_ (https://github.com/luciolemos/luciolemos.git) com a opção incluir README.md:
+#### ✔️ `Crie o repositório remoto` _luciolemos_ (https://github.com/luciolemos/luciolemos.git) com a opção incluir README.md:
 
-#### ✔️ Clone o repositório remoto com a CLI: 
+#### ✔️ `Clone o repositório remoto com a CLI:` 
     luciolemos@dev:~$ git clone https://github.com/luciolemos/luciolemos.git
 
-#### ✔️ Alterne para o diretório clonado _luciolemos_:
+#### ✔️ `Alterne para o diretório clonado` _luciolemos_:
     luciolemos@dev:~$ cd luciolemos
 
-#### ✔️ Listando arquivos e diretórios existenes no diretório corrente (luciolemos):
+#### ✔️ `Listando arquivos e diretórios existenes no diretório corrente (luciolemos):`
     luciolemos@dev:~/luciolemos$ ls -l
     total 4
     -rw-rw-r-- 1 luciolemos luciolemos 3024 abr 26 21:38 README.md
 
-#### ✔️ Criando o arquivo _markdow_ git.md: 
+#### ✔️ `Criando o arquivo _markdow_ git.md:` 
 
     luciolemos@dev:~/luciolemos$ touch git.md
 
-#### ✔️ Adicionando (stage changes) git.md: 
+#### ✔️ `Adicionando (stage changes) git.md:` 
 Este comando irá adicionar um ou mais arquivos ao controle de versionamento do git, fazendo com que todas as alterações deste arquivo sejam monitoradas posteriormente.
 
     luciolemos@dev:~/luciolemos$ git add git.md
 
-#### ✔️ Realizando o commit:
+#### ✔️ `Realizando o commit:`
     luciolemos@dev:~/luciolemos$ git commit -m "Commit"
     [main 41712ff] Commit
     1 file changed, 0 insertions(+), 0 deletions(-)
     create mode 100644 git.md
 
-#### ✔️ Realizando o _push_ das alteraçãoe feitas no projeto:
+#### ✔️ `Realizando o _push_ das alteraçãoe feitas no projeto:`
     luciolemos@dev:~/luciolemos$ git push
     Username for 'https://github.com': luciolemos
     Password for 'https://luciolemos@github.com': 
@@ -50,10 +50,10 @@ Este comando irá adicionar um ou mais arquivos ao controle de versionamento do 
     To https://github.com/luciolemos/luciolemos.git
     6133587..41712ff  main -> main
 
-#### ✔️ Carregando o diretório do projeto no VSCode:
+#### ✔️ `Carregando o diretório do projeto no VSCode:`
     luciolemos@dev:~/luciolemos$ code .
 
-#### ✔️ Resumo das linhas de comando:
+#### ✔️ `Resumo das linhas de comando:`
     
     luciolemos@dev:~$ git clone https://github.com/luciolemos/luciolemos.git
     luciolemos@dev:~$ cd luciolemos
