@@ -1,6 +1,6 @@
 # My Tips
 ## Git
-#### 1. Listando arquivos e diretórios existenes no diretório corrente (lucioleos):
+#### 1. Listando arquivos e diretórios existenes no diretório corrente (luciolemos):
     luciolemos@dev:~/luciolemos$ ls -l
     total 4
     -rw-rw-r-- 1 luciolemos luciolemos 3024 abr 26 21:38 README.md
