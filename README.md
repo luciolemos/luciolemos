@@ -10,7 +10,7 @@ I use the [**Linux Mint**](https://linuxmint.com/) and [Windows](https://www.mic
 I also know the code editors [Sublime Text](https://www.sublimetext.com/), [**VSCode**](https://code.visualstudio.com/), and [Notepad ++](https://notepad-plus-plus.org/), among others with ease.
 Use in my projects: [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5), [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS), and [Bootstrap](https://getbootstrap.com/).
 I have knowledge of the following programming languages: R, C, Python, PHP, and Java.
-I use Github as a versioning tool.
+I use [Git](https://git-scm.com/) and [Github](https://github.com/) as a versioning tool.
 I currently travel the knowledge trails of [Docker](https://docs.docker.com/) and [React](https://pt-br.reactjs.org/).
 
 - [Website](https://www.luciolemos.com) 🌐 - Working on it.
@@ -32,6 +32,5 @@ I currently travel the knowledge trails of [Docker](https://docs.docker.com/) an
 ### Comand Line Interface (CLI) no terminal 💻 do GNOME.
 #### 1. Carregando o diretório 📁 corrente (docker_projects) no VSCode 📙:
     luciolemos@dev:~/docker_projects$ code .
-
 #### 2. Listando arquivos 📄 e diretórios 📁 dentro de "docker_projects":
     luciolemos@dev:~/docker_projects$ ls -l
