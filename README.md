@@ -25,7 +25,7 @@ Use in my projects: [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/H
 [![](https://img.shields.io/badge/-Wordpress-blue)](#) 
 ## My tips 📌: 
 ### Comand Line Interface (CLI) no terminal 💻 do GNOME.
-#### ✔️ Carregando o diretório 📁 corrente (docker_projects) no VSCode 📙:
+#### ✔️ Carregando o diretório 📁 corrente ` docker_projects ` no VSCode 📙:
     luciolemos@dev:~/docker_projects$ code .
-#### ✔️ Listando arquivos 📄 e diretórios 📁 dentro de "docker_projects":
+#### ✔️ Listando arquivos 📄 e diretórios 📁 dentro de ` docker_projects `:
     luciolemos@dev:~/docker_projects$ ls -l
