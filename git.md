@@ -1,5 +1,5 @@
 # My Tips 📌:
-## Git CLI
+## Git CLI 💻
 [Git](https://git-scm.com/) é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência.
 
 #### ✔️ Listando arquivos e diretórios existenes no diretório corrente (luciolemos):
@@ -36,3 +36,4 @@
 
 #### ✔️ Carregando o diretório do projeto no VSCode:
     luciolemos@dev:~/luciolemos$ code .
+
