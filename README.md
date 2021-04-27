@@ -29,7 +29,7 @@ I use [Git](https://git-scm.com/) and [Github](https://github.com/) as a version
 [![](https://img.shields.io/badge/-Wordpress-blue)](#) 
 ## My tips 📌: 
 ### Comand Line Interface (CLI) no terminal 💻 do GNOME.
-#### 1. Carregando o diretório 📁 corrente (docker_projects) no VSCode 📙:
+#### ✔️ Carregando o diretório 📁 corrente (docker_projects) no VSCode 📙:
     luciolemos@dev:~/docker_projects$ code .
-#### 2. Listando arquivos 📄 e diretórios 📁 dentro de "docker_projects":
+#### ✔️ Listando arquivos 📄 e diretórios 📁 dentro de "docker_projects":
     luciolemos@dev:~/docker_projects$ ls -l
