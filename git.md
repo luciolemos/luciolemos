@@ -53,7 +53,12 @@ Este comando irá adicionar um ou mais arquivos ao controle de versionamento do 
 #### ✔️ Carregando o diretório do projeto no VSCode:
     luciolemos@dev:~/luciolemos$ code .
 
-#### ✔️ Empurrando o projeto a partir de liha de comando:
-    git remote add origin https://github.com/luciolemos/restful_project.git
-    git branch -M main 
-    git push -u origin main
+#### ✔️ Resumo das linhas de comando:
+    
+    luciolemos@dev:~$ git clone https://github.com/luciolemos/luciolemos.git
+    luciolemos@dev:~$ cd luciolemos
+    luciolemos@dev:~/luciolemos$ touch git.md
+    luciolemos@dev:~/luciolemos$ git add git.md
+    luciolemos@dev:~/luciolemos$ git commit -m "Commit"
+    luciolemos@dev:~/luciolemos$ git push
+    luciolemos@dev:~/luciolemos$ code .
