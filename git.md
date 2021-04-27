@@ -12,6 +12,7 @@
     luciolemos@dev:~/luciolemos$ touch git.md
 
 #### ✔️ Adicionando (stage changes) git.md: 
+Este comando irá adicionar um ou mais arquivos ao controle de versionamento do git, fazendo com que todas as alterações deste arquivo sejam monitoradas posteriormente.
     luciolemos@dev:~/luciolemos$ git add git.md
 
 #### ✔️ Realizando o commit:
