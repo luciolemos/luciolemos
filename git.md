@@ -1,4 +1,4 @@
-# My Tips
+# My Tips 📌:
 ## Git CLI
 #### ✔️ Listando arquivos e diretórios existenes no diretório corrente (luciolemos):
     luciolemos@dev:~/luciolemos$ ls -l
