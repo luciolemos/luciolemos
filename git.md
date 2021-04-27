@@ -1,11 +1,11 @@
 # My Tips
-## Git [![](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luciolemos)](https://github.com/luciolemos)
+## Git [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luciolemos)](https://github.com/luciolemos)
 #### 1. Listando arquivos e diretórios existenes no diretório corrente (luciolemos):
     luciolemos@dev:~/luciolemos$ ls -l
     total 4
     -rw-rw-r-- 1 luciolemos luciolemos 3024 abr 26 21:38 README.md
 
-#### 2. Criando o arquivo _markdow_ git.md:
+#### 2. Criando o arquivo _markdow_ git.md: ✔️
 
     luciolemos@dev:~/luciolemos$ touch git.md
 
