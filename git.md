@@ -10,6 +10,13 @@
 
 #### ✔️ Crie o repositório remoto `luciolemos` (https://github.com/luciolemos/luciolemos.git) com a opção incluir `README.md`:
 
+#### ✔️ Limpando o terminal: 
+    luciolemos@dev:~$ clear
+
+#### ✔️ Exibindo o diretório corrente: 
+    luciolemos@dev:~$ pwd
+    /home/luciolemos
+
 #### ✔️ Clone o repositório remoto com a CLI: 
     luciolemos@dev:~$ git clone https://github.com/luciolemos/luciolemos.git
 
