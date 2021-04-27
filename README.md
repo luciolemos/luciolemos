@@ -8,12 +8,12 @@
 My name is Lúcio Lemos. I am a hobbyist front-end programmer and an eternal apprentice of technologies for web development. I use the [**Linux Mint**](https://linuxmint.com/) and [Windows](https://www.microsoft.com/pt-br/windows/) platforms interchangeably. I am familiar with the following IDEs: [Apache NetBeans](https://netbeans.apache.org/), Eclipse, [Bootstrap Studio](https://bootstrapstudio.io/), [PhpStorm](https://www.jetbrains.com/pt-br/phpstorm/), [RStudio](https://www.r-project.org/), etc ... I also know the code editors [Sublime Text](https://www.sublimetext.com/), [**VSCode**](https://code.visualstudio.com/), and [Notepad ++](https://notepad-plus-plus.org/), among others with ease.
 Use in my projects: [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5), [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS), and [Bootstrap](https://getbootstrap.com/). I have knowledge of the following programming languages: R, C, Python, PHP, and Java. I use [Git](https://git-scm.com/) and [Github](https://github.com/) as a versioning tool. I currently travel the knowledge trails of [Docker](https://docs.docker.com/) and [React](https://pt-br.reactjs.org/).
 
-- [Website](https://www.luciolemos.com) 🌐 - Working on it.
-- [MySQL](https://www.mysql.com/), 
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [Vagrant](https://www.vagrantup.com/)
-- [Network and System Security](#)
-- [Data Governance](#)
+- [Website](https://www.luciolemos.com) 🌐 - Working on it. ✔️
+- [MySQL](https://www.mysql.com/) ✔️
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) ✔️
+- [Vagrant](https://www.vagrantup.com/) ✔️
+- [Network and System Security](#) ✔️
+- [Data Governance](#) ✔️
 
 [![](https://img.shields.io/badge/HTML-5-blue)](#) 
 [![](https://img.shields.io/badge/CSS-3-red)](#) 
