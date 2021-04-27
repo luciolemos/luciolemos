@@ -2,6 +2,14 @@
 ## Git CLI 💻
 [Git](https://git-scm.com/) é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência.
 
+#### ✔️ Crie o repositório remoto _luciolemos_ (https://github.com/luciolemos/luciolemos.git) com a opção incluir README.md:
+
+#### ✔️ Clone o repositório remoto com a CLI: 
+    luciolemos@dev:~$ git clone https://github.com/luciolemos/luciolemos.git
+
+#### ✔️ Alterne para o diretório clonado _luciolemos_:
+    luciolemos@dev:~$ cd luciolemos
+
 #### ✔️ Listando arquivos e diretórios existenes no diretório corrente (luciolemos):
     luciolemos@dev:~/luciolemos$ ls -l
     total 4
@@ -13,11 +21,11 @@
 
 #### ✔️ Adicionando (stage changes) git.md: 
 Este comando irá adicionar um ou mais arquivos ao controle de versionamento do git, fazendo com que todas as alterações deste arquivo sejam monitoradas posteriormente.
-    
+
     luciolemos@dev:~/luciolemos$ git add git.md
 
 #### ✔️ Realizando o commit:
-    luciolemos@dev:~/luciolemos$ git commit -m"Commit"
+    luciolemos@dev:~/luciolemos$ git commit -m "Commit"
     [main 41712ff] Commit
     1 file changed, 0 insertions(+), 0 deletions(-)
     create mode 100644 git.md
