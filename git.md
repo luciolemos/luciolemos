@@ -18,7 +18,7 @@
     1 file changed, 0 insertions(+), 0 deletions(-)
     create mode 100644 git.md
 
-#### 5. Realizando _push_ das alteraçãoe realizadasno arquivo:
+#### 5. Realizando o _push_ das alteraçãoe feitas no projeto:
     luciolemos@dev:~/luciolemos$ git push
     Username for 'https://github.com': luciolemos
     Password for 'https://luciolemos@github.com': 
