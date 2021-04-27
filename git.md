@@ -62,8 +62,11 @@ Este comando irá adicionar um ou mais arquivos ao controle de versionamento do 
 
 #### ✔️ Resumo das linhas de comando:
     
+    luciolemos@dev:~$ clear
+    luciolemos@dev:~$ pwd
     luciolemos@dev:~$ git clone https://github.com/luciolemos/luciolemos.git
     luciolemos@dev:~$ cd luciolemos
+    luciolemos@dev:~/luciolemos$ ls -l
     luciolemos@dev:~/luciolemos$ touch git.md
     luciolemos@dev:~/luciolemos$ git add git.md
     luciolemos@dev:~/luciolemos$ git commit -m "Commit"
