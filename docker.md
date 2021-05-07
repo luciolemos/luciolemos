@@ -5,20 +5,39 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lucciolemos)](https://twitter.com/lucciolemos)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://studio.youtube.com/channel/UCrNM1nr2nw0lSqMD10m6rLw)](#)
 ## My Tips 📌:
-### Git CLI 💻
-[Git](https://git-scm.com/) é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência.
+### Docker CLI 💻
+O [Docker](https://git-scm.com/) nada mais é que uma plataforma aberta para criação, execução e publicação (deploy) de containers. Um Container é a forma de empacotar sua aplicação e suas dependências (bibliotecas) de forma padronizada. Podemos dizer que as palavras chaves para o Docker são: construir, entregar e rodar em qualquer ambiente (develop, ship and run anywhere). Docker é uma plataforma aberta para desenvolvimento, envio e execução de aplicativos. O Docker permite que você separe seus aplicativos de sua infraestrutura para que possa entregar o software rapidamente. Com o Docker, você pode gerenciar sua infraestrutura da mesma forma que gerencia seus aplicativos. Tirando proveito das metodologias do Docker para enviar, testar e implantar código rapidamente, você pode reduzir significativamente o atraso entre escrever o código e executá-lo na produção.
+#### ✔️ Verificando a versão do Docker instalada:
+    luciolemos@Home:~$ docker -v
+    Docker version 20.10.5, build 55c4c88
 
-#### ✔️ Crie o repositório remoto `luciolemos` (https://github.com/luciolemos/luciolemos.git) com a opção incluir `README.md`:
+#### ✔️ Verificando o status dos serviços:
+    luciolemos@Home:~$ service --status-all
+    [ - ]  docker
 
-#### ✔️ Limpando o terminal: 
-    luciolemos@dev:~$ clear
+#### ✔️ "Startando" o serviço do Docker:
+    luciolemos@Home:~$ sudo service docker start
+    * Starting Docker: docker  
 
-#### ✔️ Exibindo o diretório corrente: 
-    luciolemos@dev:~$ pwd
-    /home/luciolemos
+#### ✔️ Verificando novamente o status dos serviços:
+    luciolemos@Home:~$ service --status-all
+    [ + ]  docker
 
-#### ✔️ Clone o repositório remoto com a CLI: 
-    luciolemos@dev:~$ git clone https://github.com/luciolemos/luciolemos.git
+#### ✔️ Verificando se a instalação do Docker foi bem sucedida:
+    luciolemos@Home:~$ docker run hello-world
+    Hello from Docker!
+    This message shows that your installation appears to be working correctly.
+    To generate this message, Docker took the following steps:
+     1. The Docker client contacted the Docker daemon.
+     2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+        (amd64)
+     3. The Docker daemon created a new container from that image which runs the
+        executable that produces the output you are currently reading.
+     4. The Docker daemon streamed that output to the Docker client, which sent it
+        to your terminal.
+    To try something more ambitious, you can run an Ubuntu container with: $ docker run -it ubuntu bash
+    Share images, automate workflows, and more with a free Docker ID: https://hub.docker.com/
+    For more examples and ideas, visit: https://docs.docker.com/get-started/
 
 #### ✔️ Alterne para o diretório clonado `luciolemos`:
     luciolemos@dev:~$ cd luciolemos
