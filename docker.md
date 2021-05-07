@@ -39,55 +39,53 @@ O [Docker](https://git-scm.com/) nada mais é que uma plataforma aberta para cri
     Share images, automate workflows, and more with a free Docker ID: https://hub.docker.com/
     For more examples and ideas, visit: https://docs.docker.com/get-started/
 
-#### ✔️ Alterne para o diretório clonado `luciolemos`:
-    luciolemos@dev:~$ cd luciolemos
-
-#### ✔️ Listando arquivos e diretórios existentes no diretório corrente `luciolemos`:
-    luciolemos@dev:~/luciolemos$ ls -l
-    total 4
-    -rw-rw-r-- 1 luciolemos luciolemos 3024 abr 26 21:38 README.md
-
-#### ✔️ Criando o arquivo _markdow_ `git.md`: 
-
-    luciolemos@dev:~/luciolemos$ touch git.md
-
-#### ✔️ Adicionando _stage changes_ `git.md`: 
-Este comando irá adicionar um ou mais arquivos ao controle de versionamento do git, fazendo com que todas as alterações deste arquivo sejam monitoradas posteriormente.
-
-    luciolemos@dev:~/luciolemos$ git add git.md
-
-#### ✔️ Realizando o _commit_:
-    luciolemos@dev:~/luciolemos$ git commit -m "Commit"
-    [main 41712ff] Commit
-    1 file changed, 0 insertions(+), 0 deletions(-)
-    create mode 100644 git.md
-
-#### ✔️ Realizando o _push_ das alteraçãoe feitas no projeto:
-    luciolemos@dev:~/luciolemos$ git push
-    Username for 'https://github.com': luciolemos
-    Password for 'https://luciolemos@github.com': 
-    Enumerating objects: 13, done.
-    Counting objects: 100% (13/13), done.
-    Delta compression using up to 4 threads
-    Compressing objects: 100% (8/8), done.
-    Writing objects: 100% (11/11), 979 bytes | 326.00 KiB/s, done.
-    Total 11 (delta 4), reused 0 (delta 0), pack-reused 0
-    remote: Resolving deltas: 100% (4/4), completed with 1 local object.
-    To https://github.com/luciolemos/luciolemos.git
-    6133587..41712ff  main -> main
-
-#### ✔️ Carregando o diretório do projeto no VSCode:
-    luciolemos@dev:~/luciolemos$ code .
-
-#### ✔️ Resumo das linhas de comando:
+#### ✔️ Pesquisando imagens disponíveis no Docher Hub (do ubuntu por exemplo). Na coluna "OFFICIAL", "OK", indica uma imagem construída e apoiada pela empresa mantenedora do Projeto Ubuntu, a Canonical. Depois de identificar a imagem que deseja usar, você pode baixá-la para o seu computador usando o subcomando "pull".
+    luciolemos@Home:~$ docker search ubuntu
+    NAME                                                      DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+    ubuntu                                                    Ubuntu is a Debian-based Linux operating sys…   12037     [OK]
+    dorowu/ubuntu-desktop-lxde-vnc                            Docker image to provide HTML5 VNC interface …   515                  [OK]
+    websphere-liberty                                         WebSphere Liberty multi-architecture images …   267       [OK]
+    rastasheep/ubuntu-sshd                                    Dockerized SSH service, built on top of offi…   249                  [OK]
+#### ✔️ Execute o comando a seguir, para baixar a imagem oficial do ubuntu:
+    luciolemos@dev:~$ docker pull ubuntu
+#### ✔️ Após o download de uma imagem, é possível executar um contêiner usando a imagem baixada com o subcomando "run". Como se viu, no exemplo do "hello-world", se uma imagem não tiver sido baixada, quando executada, o cliente Docker primeiro fará o download da imagem, para em seguida, executar um contêiner usando-a. Para visualizar quais imagens foram baixadas para o computador, use:
+    luciolemos@dev:~$ docker images
+    REPOSITORY    TAG       IMAGE ID       CREATED       SIZE
+    ubuntu        latest    26b77e58432b   10 days ago   72.9MB
+    hello-world   latest    d1165f221234   5 weeks ago   13.3kB
     
-    luciolemos@dev:~$ clear
-    luciolemos@dev:~$ pwd
-    luciolemos@dev:~$ git clone https://github.com/luciolemos/luciolemos.git
-    luciolemos@dev:~$ cd luciolemos
-    luciolemos@dev:~/luciolemos$ ls -l
-    luciolemos@dev:~/luciolemos$ touch git.md
-    luciolemos@dev:~/luciolemos$ git add git.md
-    luciolemos@dev:~/luciolemos$ git commit -m "Commit"
-    luciolemos@dev:~/luciolemos$ git push
-    luciolemos@dev:~/luciolemos$ code .
+#### ✔️ Criando a imagem do container. O "docker build" cria nova imagem a partir do Dockerfile declarado.
+    luciolemos@dev:~/my_docker_projects/app$ docker build -t getting-started .
+    [+] Building 43.0s (11/11) FINISHED
+     => [internal] load build definition from Dockerfile                                                                                                                   0.0s
+     => => transferring dockerfile: 184B                                                                                                                                   0.0s
+     => [internal] load .dockerignore                                                                                                                                      0.0s
+     => => transferring context: 2B                                                                                                                                        0.0s
+     => [internal] load metadata for docker.io/library/node:12-alpine                                                                                                     11.9s
+     => [auth] library/node:pull token for registry-1.docker.io                                                                                                            0.0s
+     => [internal] load build context                                                                                                                                      0.1s
+     => => transferring context: 4.63MB                                                                                                                                    0.1s
+     => [1/5] FROM docker.io/library/node:12-alpine@sha256:c4e50b1f0f4f86b7f1a2315efc9dea7e2d4152975da6125d1f981d8d0bca09b5                                                0.0s
+     => CACHED [2/5] RUN apk add --no-cache python g++ make                                                                                                                0.0s
+     => CACHED [3/5] WORKDIR /app                                                                                                                                          0.0s
+     => [4/5] COPY . .                                                                                                                                                     0.0s
+     => [5/5] RUN yarn install --production                                                                                                                               27.2s
+     => exporting to image                                                                                                                                                 3.8s
+     => => exporting layers                                                                                                                                                3.7s
+     => => writing image sha256:918ddcb4d27edf3592407dca85db52ba749580410697b172c5412d7e9baddd8c                                                                           0.0s
+     => => naming to docker.io/library/getting-started
+    #### ✔️ Executando o container
+    luciolemos@dev:~/my_docker_projects/app$ docker run -d -p 80:80 docker/getting-started
+    Unable to find image 'docker/getting-started:latest' locally
+    latest: Pulling from docker/getting-started
+    ba3557a56b15: Pull complete
+    468d8ccebf7a: Pull complete
+    b7f67c5d6ce9: Pull complete
+    ed91f01a4fcb: Pull complete
+    8051568c89ac: Pull complete
+    5b4dcb4d3646: Pull complete
+    22ecfaabb4de: Pull complete
+    bbaa3642d0a3: Pull complete
+    Digest: sha256:67944b53f8a7d16b3d9909315f9d557ade12c4ee4083cd98068f9fe6d9995808
+    Status: Downloaded newer image for docker/getting-started:latest
+    52b57841101854c2e36169ab16fc7b88a23eb6fed109a08bee13058da218e37a
