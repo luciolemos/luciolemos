@@ -74,7 +74,7 @@ O [Docker](https://git-scm.com/) nada mais é que uma plataforma aberta para cri
      => => exporting layers                                                                                                                                                3.7s
      => => writing image sha256:918ddcb4d27edf3592407dca85db52ba749580410697b172c5412d7e9baddd8c                                                                           0.0s
      => => naming to docker.io/library/getting-started
-    #### ✔️ Executando o container
+#### ✔️ Executando o container
     luciolemos@dev:~/my_docker_projects/app$ docker run -d -p 80:80 docker/getting-started
     Unable to find image 'docker/getting-started:latest' locally
     latest: Pulling from docker/getting-started
