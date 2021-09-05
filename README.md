@@ -18,7 +18,7 @@ Use in my projects: [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/H
 [![](https://img.shields.io/badge/HTML-5-blue)](https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML) 
 [![](https://img.shields.io/badge/CSS-3-red)](https://developer.mozilla.org/pt-BR/docs/Web/Tutorials#documentation_2) 
 [![](https://img.shields.io/badge/Bootstrap-5-orange)](https://getbootstrap.com/)
-[![](https://img.shields.io/badge/Linux_Mint-20.04-yelow)](#)
+[![](https://img.shields.io/badge/Linux_Mint-20.04-yellow)](#)
 [![](https://img.shields.io/badge/Windows-11_Home_Single_Language-blue)](#)
 [![](https://img.shields.io/badge/WSL-2-green)](https://docs.microsoft.com/pt-br/windows/wsl/) 
 [![](https://img.shields.io/badge/Angular_CLI-12.2.4-red)](https://angular.io/)
