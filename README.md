@@ -20,5 +20,5 @@ Use in my projects: [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/H
 [![](https://img.shields.io/badge/Bootstrap-5-orange)](#)
 [![](https://img.shields.io/badge/Linux_Mint-20.04-orange)](#)
 [![](https://img.shields.io/badge/Windows-10-blue)](#)
-[![](https://img.shields.io/badge/Angular-CLI-12.2.4-red)](#)
+[![](https://img.shields.io/badge/Angular_CLI-12.2.4-red)](#)
 
