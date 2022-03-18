@@ -23,4 +23,6 @@ Use in my projects: [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/H
 [![](https://img.shields.io/badge/WSL-2-green)](https://docs.microsoft.com/pt-br/windows/wsl/) 
 [![](https://img.shields.io/badge/Angular_CLI-12.2.4-red)](https://angular.io/)
 
+![Custom badge](https://img.shields.io/endpoint?style=for-the-badge&url=5)
+
 ![Custom badge](https://img.shields.io/endpoint?label=HTML&style=for-the-badge&url=%3Cimg%20alt%3D%22Custom%20badge%22%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fendpoint%3Fcolor%3Dblue%26label%3DHTML%26logo%3D5%26style%3Dfor-the-badge%22%3E)
