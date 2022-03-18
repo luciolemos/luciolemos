@@ -23,5 +23,3 @@ Use in my projects: [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/H
 [![](https://img.shields.io/badge/WSL-2-green)](https://docs.microsoft.com/pt-br/windows/wsl/) 
 [![](https://img.shields.io/badge/Angular_CLI-12.2.4-red)](https://angular.io/)
 
-[![](https://img.shields.io/endpoint?url=<URL>&style?style=for-the-badge&logo=appveyor)](https://angular.io/)
-
