@@ -24,3 +24,4 @@ Use in my projects: [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/H
 [![](https://img.shields.io/badge/Angular_CLI-12.2.4-red)](https://angular.io/)
 [![](https://img.shields.io/endpoint?label=HTML&style=for-the-badge)](https://angular.io/)
 
+<img alt="Custom badge" src="https://img.shields.io/endpoint?color=blue&label=HTML&logo=5&style=for-the-badge">
