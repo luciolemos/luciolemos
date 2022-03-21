@@ -30,3 +30,8 @@ Use in my projects: [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/H
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciolemos&show_icons=true&theme=dark)-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciolemos&hide=javascript,html)](https://github.com/luciolemos/github-readme-stats)-->
 
+<a href="https://github.com/luciolemos/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luciolemos&repo=github-readme-stats" />
+</a>
+
+
