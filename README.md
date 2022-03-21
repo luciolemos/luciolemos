@@ -15,7 +15,7 @@ Use in my projects: [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/H
 - [Network and System Security](#) ✔️
 - [Data Governance](#) ✔️
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciolemos&show_icons=true)-->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciolemos&layout=compact)](https://github.com/luciolemos/github-readme-stats)
 [![](https://img.shields.io/badge/HTML-5-blue)](https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML) 
 [![](https://img.shields.io/badge/CSS-3-red)](https://developer.mozilla.org/pt-BR/docs/Web/Tutorials#documentation_2) 
@@ -26,6 +26,7 @@ Use in my projects: [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/H
 [![](https://img.shields.io/badge/Angular_CLI-12.2.4-red)](https://angular.io/)
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciolemos&show_icons=true)-->
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciolemos&show_icons=true&theme=dark)-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciolemos&hide=javascript,html)](https://github.com/luciolemos/github-readme-stats)-->
 
