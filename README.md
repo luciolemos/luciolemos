@@ -45,16 +45,16 @@ Essa é uma conta de estudante para o aprendizado do Git:
 - Pushs✔️
 - Pull requests✔️
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucioweb)](https://github.com/lucioweb/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucioweb&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucioweb&show_icons=true&theme=dark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucioweb&repo=github-readme-stats)](https://github.com/lucioweb/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucioweb)](https://github.com/lucioweb/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucioweb&layout=compact)](https://github.com/lucioweb/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucioweb&repo=github-readme-stats" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciolemos)](https://github.com/luciolemos/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciolemos&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciolemos&show_icons=true&theme=dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luciolemos&repo=github-readme-stats)](https://github.com/luciolemos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciolemos)](https://github.com/luciolemos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciolemos&layout=compact)](https://github.com/luciolemos/github-readme-stats)
+<a href="https://github.com/luciolemos/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luciolemos&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lucioweb&repo=convoychat" />
+<a href="https://github.com/luciolemos/lucioweb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luciolemos&repo=convoychat" />
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucioweb)](https://github.com/lucioweb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciolemos)](https://github.com/luciolemos/github-readme-stats)
