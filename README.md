@@ -24,7 +24,6 @@ Use in my projects: [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/H
 [![](https://img.shields.io/badge/Angular_CLI-12.2.4-red)](https://angular.io/)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciolemos)](https://github.com/luciolemos/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciolemos&show_icons=true&theme=dark)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luciolemos&repo=github-readme-stats)](https://github.com/luciolemos/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciolemos)](https://github.com/luciolemos/github-readme-stats)
