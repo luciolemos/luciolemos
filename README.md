@@ -24,11 +24,5 @@ Use in my projects: [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/H
 [![](https://img.shields.io/badge/Angular_CLI-12.2.4-red)](https://angular.io/)
 
 
-
-<a href="https://github.com/luciolemos/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luciolemos&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/luciolemos/lucioweb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luciolemos&repo=convoychat" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciolemos&show_icons=true&theme=dark)
 
