@@ -10,25 +10,17 @@ Use in my projects: [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/H
 
 ## 👤 About Me
 
-My name is **Lúcio Lemos**. I’m a hobbyist front-end developer and a lifelong learner, passionate about web development technologies.
-
+My name is **Lúcio Lemos**. I’m a hobbyist front-end developer and a lifelong learner, passionate about web development technologies. 
 I work interchangeably on the [`Linux Mint`](https://linuxmint.com/) and [Windows](https://www.microsoft.com/pt-br/windows/) platforms, depending on the needs of each project.
-
 I’m familiar with several IDEs, including [Apache NetBeans](https://netbeans.apache.org/), Eclipse, [Bootstrap Studio](https://bootstrapstudio.io/), [PhpStorm](https://www.jetbrains.com/pt-br/phpstorm/), and [RStudio](https://www.r-project.org/), among others.
-
 In addition, I’m comfortable using code editors such as [Sublime Text](https://www.sublimetext.com/), [`VSCode`](https://code.visualstudio.com/), and [Notepad++](https://notepad-plus-plus.org/), along with other tools.
-
 In my personal and study projects, I use [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5), [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS), and [Bootstrap](https://getbootstrap.com/).
-
 I have experience with the following programming languages: **R**, **C**, **Python**, **PHP**, and **Java**.  
 I use [Git](https://git-scm.com/) and [GitHub](https://github.com/) as my Version Control System (VCS).
-
 Currently, I’m exploring the knowledge paths of [Docker](https://docs.docker.com/) and [React](https://pt-br.reactjs.org/).
-
 As for **Content Management Systems**, I’m well-acquainted with [Joomla CMS](https://www.joomla.org/) and [WordPress](https://br.wordpress.org/).
 
-
-- [Website](https://www.luciolemos.com) 🌐 - Working on it. ✔️
+- [Website](https://www.luciolemos.com) ✔️
 - [MySQL](https://www.mysql.com/) ✔️
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) ✔️
 - [Vagrant](https://www.vagrantup.com/) ✔️
