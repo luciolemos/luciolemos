@@ -31,6 +31,16 @@ My expertise covers:
 - [Network and System Security](#) ✔️
 - [Data Governance](#) ✔️
 -->
+## 👤 ASTACK TECNOLÓGICA
+→ PHP (Laravel/Symfony) | JavaScript (Vue/React)
+→ Bancos de dados SQL/NoSQL | APIs RESTful/GraphQL
+→ Servidores cloud (AWS/GCP) | CI/CD e automação
+→ Servidor Apache
+→ IDE (PHPSTORM, VSCode)
+→ CMS (Joomla, Wordpress)
+→ LINUX
+→ WSL2
+→ ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciolemos&layout=compact)](https://github.com/luciolemos/github-readme-stats)
 
