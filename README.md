@@ -7,7 +7,7 @@
 
 ## 👤 About Me
 
-My name is **Lúcio Lemos**. I’m a hobbyist front-end developer and a lifelong learner, passionate about web development technologies. 
+My name is **Lúcio Lemos**. I’m a hobbyist Full Stack developer. and a lifelong learner, passionate about web development technologies. 
 From concept to implementation, I orchestrate the entire project lifecycle with strategic vision, systemic thinking, and a results-oriented focus — delivering not just code, but integrated, scalable, and sustainable solutions.
 My expertise covers:
   - Comprehensive Architecture – From the initial structure to final implementation, designing robust, scalable, and efficient systems;
