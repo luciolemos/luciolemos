@@ -52,6 +52,8 @@ My expertise covers:
 
 → ...
 
+The result? Systems that not only work, but perform and evolve.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciolemos&layout=compact)](https://github.com/luciolemos/github-readme-stats)
 
 [![](https://img.shields.io/badge/HTML-5-blue)](https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML) 
