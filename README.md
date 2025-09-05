@@ -31,7 +31,7 @@ My expertise covers:
 - [Network and System Security](#) ✔️
 - [Data Governance](#) ✔️
 -->
-## Technology Stack
+## 🔧 Technology Stack
 → PHP (Laravel/Symfony) | JavaScript (Vue/React)
 
 → Bancos de dados SQL/NoSQL | APIs RESTful/GraphQL
