@@ -24,7 +24,7 @@ My expertise covers:
 - [Data Governance](#) ✔️
 -->
 ## 🔧 Technology Stack
-I work interchangeably on the [`Linux Mint`](https://linuxmint.com/) and [Windows](https://www.microsoft.com/pt-br/windows/) platforms, depending on the needs of each project.
+I work interchangeably on the [`Linux`](https://linuxmint.com/) and [`Windows`](https://www.microsoft.com/pt-br/windows/) platforms, depending on the needs of each project.
 I’m familiar with several IDEs, including [Apache NetBeans](https://netbeans.apache.org/), Eclipse, [Bootstrap Studio](https://bootstrapstudio.io/), [PhpStorm](https://www.jetbrains.com/pt-br/phpstorm/), and [RStudio](https://www.r-project.org/), among others.
 In addition, I’m comfortable using code editors such as [Sublime Text](https://www.sublimetext.com/), [`VSCode`](https://code.visualstudio.com/), and [Notepad++](https://notepad-plus-plus.org/), along with other tools.
 In my personal and study projects, I use [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5), [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS), and [Bootstrap](https://getbootstrap.com/).
