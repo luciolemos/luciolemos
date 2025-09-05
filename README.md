@@ -32,6 +32,7 @@ I have experience with the following programming languages: **R**, **C**, **Pyth
 I use [Git](https://git-scm.com/) and [GitHub](https://github.com/) as my Version Control System (VCS).
 Currently, I’m exploring the knowledge paths of [Docker](https://docs.docker.com/) and [React](https://pt-br.reactjs.org/).
 As for **Content Management Systems**, I’m well-acquainted with [Joomla CMS](https://www.joomla.org/) and [WordPress](https://br.wordpress.org/).
+
 → PHP (Laravel/Symfony) | JavaScript (Vue/React)
 
 → Bancos de dados SQL/NoSQL | APIs RESTful/GraphQL
