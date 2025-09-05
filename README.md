@@ -48,6 +48,8 @@ My expertise covers:
 
 → WSL2
 
+→ DOCKER
+
 → ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciolemos&layout=compact)](https://github.com/luciolemos/github-readme-stats)
