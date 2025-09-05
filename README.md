@@ -16,6 +16,13 @@ I have experience with the following programming languages: **R**, **C**, **Pyth
 I use [Git](https://git-scm.com/) and [GitHub](https://github.com/) as my Version Control System (VCS).
 Currently, I’m exploring the knowledge paths of [Docker](https://docs.docker.com/) and [React](https://pt-br.reactjs.org/).
 As for **Content Management Systems**, I’m well-acquainted with [Joomla CMS](https://www.joomla.org/) and [WordPress](https://br.wordpress.org/).
+From concept to implementation, I orchestrate the entire project lifecycle with strategic vision, systemic thinking, and a results-oriented focus — delivering not just code, but integrated, scalable, and sustainable solutions.
+My expertise covers:
+- Comprehensive Architecture – From the initial structure to final implementation, designing robust, scalable, and efficient systems;
+- Integrated Full Stack – Full command of the flow: UI/UX, Front-end, Back-end, and DevOps;
+- On-Demand Infrastructure – Server setup from scratch (AWS, Linux, Docker);
+- Advanced Business Logic – Development of complex rules and seamless integration across layers;
+- End-to-End Solutions – Ensuring performance, security, and maintainability at every stage
 
 - [Website](https://www.luciolemos.com) ✔️
 - [MySQL](https://www.mysql.com/) ✔️
