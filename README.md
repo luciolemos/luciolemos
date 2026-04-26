@@ -7,15 +7,30 @@
 
 ## 👤 About Me
 
-My name is **Lúcio Lemos**. I’m a hobbyist Full Stack developer and a lifelong learner, passionate about web development technologies. 
-From concept to implementation, I orchestrate the entire project lifecycle with strategic vision, systemic thinking, and a results-oriented focus — delivering not just code, but integrated, scalable, and sustainable solutions.
+CEO da NatalCode · Desenvolvedor Full Stack
 
-My expertise covers:
-  - Comprehensive Architecture – From the initial structure to final implementation, designing robust, scalable, and efficient systems;
-  - Integrated Full Stack – Full command of the flow: UI/UX, Front-end, Back-end, and DevOps;
-  - On-Demand Infrastructure – Server setup from scratch (AWS, Linux, Docker);
-  - Advanced Business Logic – Development of complex rules and seamless integration across layers;
-  - End-to-End Solutions – Ensuring performance, security, and maintainability at every stage
+Sou desenvolvedor Full Stack e um eterno aprendiz, movido pela paixão por tecnologia e pela construção de soluções digitais que realmente geram valor. À frente da NatalCode, atuo na concepção, estruturação e execução de projetos, conduzindo todo o ciclo de desenvolvimento com visão estratégica, pensamento sistêmico e foco em resultados.
+
+Mais do que desenvolver código, meu objetivo é transformar ideias em sistemas sólidos, integrados e preparados para evoluir — com desempenho, escalabilidade e sustentabilidade como pilares.
+
+Minha atuação abrange:
+
+Arquitetura de Sistemas
+Planejamento e estruturação de soluções robustas, desde a concepção até a implementação, com foco em escalabilidade, organização e eficiência.
+
+Desenvolvimento Full Stack Integrado
+Domínio completo do ecossistema: UI/UX, front-end, back-end e integração entre camadas, garantindo fluidez e consistência na experiência.
+
+Infraestrutura e Deploy
+Configuração e gerenciamento de ambientes sob demanda, incluindo servidores Linux, Docker e cloud (AWS), com foco em performance e confiabilidade.
+
+Lógica de Negócio e Integrações
+Modelagem e implementação de regras complexas, assegurando coerência entre processos e sistemas.
+
+Soluções End-to-End
+Entrega de aplicações completas, com atenção a segurança, manutenção e evolução contínua.
+
+Na NatalCode, transformo estratégia em execução técnica — organizando, estruturando e entregando soluções digitais que não apenas funcionam, mas performam e crescem junto com o negócio.
 <!--
 - [Website](https://www.luciolemos.com) ✔️
 - [MySQL](https://www.mysql.com/) ✔️
