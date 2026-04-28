@@ -13,7 +13,7 @@ Sou desenvolvedor Full Stack e CEO da NatalCode, atuando na concepção, estrutu
 
 Na NatalCode, transformo demandas em sistemas estruturados, funcionais e evolutivos. Mais do que desenvolver código, meu papel é organizar, integrar e orquestrar tecnologias para entregar soluções sólidas, sustentáveis e alinhadas aos objetivos de cada cliente.
 
-Opero de forma fluida entre ambientes Linux e Windows, selecionando as melhores abordagens conforme o contexto técnico e estratégico de cada projeto. Trabalho com um ecossistema robusto de ferramentas profissionais, incluindo IDEs como PhpStorm, NetBeans, Eclipse e RStudio, além de editores ágeis como VS Code e Sublime Text, garantindo eficiência e precisão em todas as etapas do desenvolvimento.
+Opero de forma fluida entre ambientes Linux e Windows, selecionando as melhores abordagens conforme o contexto técnico e estratégico de cada projeto. Trabalho com um ecossistema robusto de ferramentas profissionais, incluindo IDEs como PhpStorm, e editores ágeis como VS Code, garantindo eficiência e precisão em todas as etapas do desenvolvimento.
 
 No campo técnico, desenvolvo interfaces estruturadas e responsivas com HTML5, CSS3 e Bootstrap, sempre orientado por usabilidade, clareza e desempenho. Minha base de programação abrange PHP, Python, R, C e Java, o que me permite atuar com flexibilidade e visão sistêmica na resolução de problemas complexos.
 
