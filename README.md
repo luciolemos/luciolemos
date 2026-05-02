@@ -16,13 +16,12 @@
 <!--
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://studio.youtube.com/channel/UCrNM1nr2nw0lSqMD10m6rLw)](#)
 -->
-Lúcio Lemos
+Lúcio Lemos - CEO da NatalCode
+Tecnologia · Inovação · Soluções
 
-CEO da NatalCode · Tecnologia · Inovação · Soluções
+Lúcio Lemos é desenvolvedor Full Stack e CEO da NatalCode onde atua na concepção, estruturação e execução de soluções digitais com foco em performance, escalabilidade e valor de negócio. Sua atuação combina visão estratégica com profundidade técnica, o que lhe permite conduzir projetos de ponta a ponta — do conceito à implementação — com consistência e orientação a resultados integrando estratégia e execução técnica para entregar soluções digitais que não apenas funcionam, mas performam, evoluem e sustentam o crescimento dos negócios.
 
-Sou desenvolvedor Full Stack e CEO da NatalCode, atuando na concepção, estruturação e execução de soluções digitais com foco em performance, escalabilidade e valor de negócio. Minha atuação combina visão estratégica com profundidade técnica, permitindo conduzir projetos de ponta a ponta — do conceito à implementação — com consistência e orientação a resultados.
-
-Na NatalCode, transformo demandas em sistemas estruturados, funcionais e evolutivos. Mais do que desenvolver código, meu papel é organizar, integrar e orquestrar tecnologias para entregar soluções sólidas, sustentáveis e alinhadas aos objetivos de cada cliente.
+Na NatalCode, transformamos demandas em sistemas estruturados, funcionais e evolutivos. Mais do que desenvolver código, meu papel é organizar, integrar e orquestrar tecnologias para entregar soluções sólidas, sustentáveis e alinhadas aos objetivos de cada cliente.
 <!--
 Opero de forma fluida entre ambientes Linux e Windows, selecionando as melhores abordagens conforme o contexto técnico e estratégico de cada projeto. Trabalho com um ecossistema robusto de ferramentas profissionais, incluindo IDEs como PhpStorm, e editores ágeis como VS Code, garantindo eficiência e precisão em todas as etapas do desenvolvimento.
 
@@ -34,9 +33,10 @@ Atualmente, estou expandindo minha atuação em arquiteturas modernas e ambiente
 
 Também possuo sólida experiência com sistemas de gerenciamento de conteúdo, especialmente Joomla e WordPress, desenvolvendo soluções práticas, robustas e alinhadas às necessidades reais de operação.
 -->
-Posicionamento
+<!--Posicionamento
 
 Na NatalCode, integro estratégia e execução técnica para entregar soluções digitais que não apenas funcionam, mas performam, evoluem e sustentam o crescimento dos negócios.
+-->
 <!--
 ## 🔧 Technology Stack
 I work interchangeably on the [`Linux`](https://linuxmint.com/) and [`Windows`](https://www.microsoft.com/pt-br/windows/) platforms, depending on the needs of each project.
