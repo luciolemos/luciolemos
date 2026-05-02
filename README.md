@@ -16,9 +16,9 @@
 <!--
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://studio.youtube.com/channel/UCrNM1nr2nw0lSqMD10m6rLw)](#)
 -->
-Lúcio Lemos é desenvolvedor Full Stack e CEO da NatalCode onde atua na concepção, estruturação e execução de soluções digitais com foco em performance, escalabilidade e valor de negócio. Sua atuação combina visão estratégica com profundidade técnica, o que lhe permite conduzir projetos de ponta a ponta — do conceito à implementação — com consistência e orientação a resultados, integrando estratégia e execução técnica para entregar soluções digitais que não apenas funcionam, mas performam, evoluem e sustentam o crescimento dos negócios.
+Lúcio Lemos é desenvolvedor Full Stack e CEO da NatalCode, atuando na concepção, estruturação e entrega de soluções digitais orientadas à performance, escalabilidade e geração de valor para o negócio. Sua atuação integra visão estratégica e domínio técnico, o que lhe permite conduzir projetos de ponta a ponta — do conceito à implementação — com consistência, governança e foco em resultados mensuráveis.
 
-Na NatalCode, transformamos demandas em sistemas estruturados, funcionais e evolutivos. Mais do que desenvolver código, meu papel é organizar, integrar e orquestrar tecnologias para entregar soluções sólidas, sustentáveis e alinhadas aos objetivos de cada cliente.
+À frente da NatalCode, lidera a transformação de demandas em sistemas estruturados, funcionais e evolutivos. Seu papel vai além do desenvolvimento: envolve organizar, integrar e orquestrar tecnologias, processos e pessoas para viabilizar soluções robustas, sustentáveis e plenamente alinhadas aos objetivos estratégicos de cada cliente. O resultado são plataformas que não apenas operam com eficiência, mas performam de forma contínua, evoluem com o negócio e sustentam seu crescimento ao longo do tempo.
 <!--
 Opero de forma fluida entre ambientes Linux e Windows, selecionando as melhores abordagens conforme o contexto técnico e estratégico de cada projeto. Trabalho com um ecossistema robusto de ferramentas profissionais, incluindo IDEs como PhpStorm, e editores ágeis como VS Code, garantindo eficiência e precisão em todas as etapas do desenvolvimento.
 
