@@ -16,9 +16,6 @@
 <!--
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://studio.youtube.com/channel/UCrNM1nr2nw0lSqMD10m6rLw)](#)
 -->
-Lúcio Lemos - CEO da NatalCode
-Tecnologia · Inovação · Soluções
-
 Lúcio Lemos é desenvolvedor Full Stack e CEO da NatalCode onde atua na concepção, estruturação e execução de soluções digitais com foco em performance, escalabilidade e valor de negócio. Sua atuação combina visão estratégica com profundidade técnica, o que lhe permite conduzir projetos de ponta a ponta — do conceito à implementação — com consistência e orientação a resultados integrando estratégia e execução técnica para entregar soluções digitais que não apenas funcionam, mas performam, evoluem e sustentam o crescimento dos negócios.
 
 Na NatalCode, transformamos demandas em sistemas estruturados, funcionais e evolutivos. Mais do que desenvolver código, meu papel é organizar, integrar e orquestrar tecnologias para entregar soluções sólidas, sustentáveis e alinhadas aos objetivos de cada cliente.
